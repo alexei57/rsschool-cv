@@ -1,40 +1,42 @@
-Alexei Vdovichenko
+# My name is Alexei Vdovichenko
 
-Contacts: 
+## Contacts: 
 
-discord - 6ubehb 
+- discord - 6ubehb 
 
-Email - vdovichenko.alexei@gmail.com 
+- Email - vdovichenko.alexei@gmail.com 
 
-GitHub - alexei57
+- GitHub - alexei57
 
-About me: 
+## About me: 
 
 
 I want to gain skills and knowledge in the field of programming, as well as gain invaluable experience and become a developer in the future. 
 
-Unfortunately, I have no work experience
 
-Code Example
+## Code Example:
 
+```
 function multiply(a, b){
 
  return a * b
  
 }
 
-Skills
+```
+
+## Skills:
 
 I'm a beginner
 
-Experience
+## Experience:
 
 absent
 
-Education
+## Education:
 
 higher, Fire safety specialist
 
-English
-
-А1
+## Languages:
+- Russian - native
+- English - А1 (beginner)
