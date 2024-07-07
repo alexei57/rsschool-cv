@@ -1,6 +1,12 @@
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     margin: 0;
     padding: 0;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    line-height: 1.5;
 }
 
 a {
@@ -17,4 +23,116 @@ ul {
 .container {
     margin: 0 auto;
     max-width: 1280px;
+    background-color: rgba(10, 32, 60, 0.263)
+}
+
+.nav-list {
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(49, 3, 58, 0.3);
+}
+
+.nav-item {
+    margin: 15px 0;
+    padding: 5px 10px;
+    font-size: 20px;
+}
+
+.me {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 80px;
+}
+
+.myavatar {
+    margin: 20px 10px 10px 0;
+}
+
+.info-aboutme {
+    margin-left: 40px;
+    display: flex;
+    flex-direction: column;
+}
+
+.myname {
+    margin-left: 40px;
+}
+
+
+.contacts-aboutme {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.contacts {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.contacts-list {
+    line-height: 3;
+}
+
+.aboutme {
+    margin-left: 70px;
+}
+
+.myskills {
+    display: flex;
+    flex-direction: row;
+    margin: 30px 80px;
+}
+
+.myskills-left-part {
+    display: flex;
+    flex-direction: column;
+}
+
+.myskills-right-part {
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+a {
+    font-size: 20px;
+}
+
+p {
+    font-size: 20px;
+}
+
+li {
+    font-size: 20px;
+    white-space: nowrap;
+}
+
+code {
+    white-space: nowrap;
+}
+
+.main-footer {
+    background-color: rgba(49, 3, 58, 0.3);
+}
+
+.footer-list {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 80px;
+    align-items: center;
+}
+
+.img-logo {
+    max-width: 150px;
 }
